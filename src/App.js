@@ -1,9 +1,10 @@
 import './index.css';
+import Login from './pages/Login';
 
 function App() {
   return (
-    <div>
-        <h1 className='text-green-500'>Hello my friend</h1>
+    <div className='w-screen h-screen bg-black'>
+      <Login />
     </div>
   );
 }
