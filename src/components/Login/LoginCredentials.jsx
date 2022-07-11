@@ -25,7 +25,7 @@ function LoginCredentials() {
             <button className='bg-twitterblue text-white font-semibold w-60 text-xs p-2 rounded-full cursor-pointer flex items-center justify-center'>Sign up with Phone or Email</button>
         </div>
         <div className='w-60 mt-2'>
-            <p className='text-twittergray text-xxs text-'>By signing up, you agree to the <span className='text-blue-500'>Terms of Service <span className='text-twittergray'>and</span> Privacy Policy</span>, including <span className='text-blue-500'>Cookie Use.</span></p>
+            <p className='text-twittergray text-xxxs text-'>By signing up, you agree to the <span className='text-blue-500'>Terms of Service <span className='text-twittergray'>and</span> Privacy Policy</span>, including <span className='text-blue-500'>Cookie Use.</span></p>
         </div>
         <div className='w-60 mt-9'>
             <h2 className='text-white font-semibold mb-3 text-sm'>Already have an account?</h2>

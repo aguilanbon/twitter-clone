@@ -4,7 +4,7 @@ import LoginHero from '../components/Login/LoginHero'
 
 function Login() {
   return (
-    <div className='flex h-full'>
+    <div className='flex h-auto'>
         <LoginHero />
         <LoginCredentials />
     </div>
