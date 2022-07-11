@@ -1,9 +1,9 @@
-import './App.css';
+import './index.css';
 
 function App() {
   return (
     <div>
-        <h1>Hello my friend</h1>
+        <h1 className='text-green-500'>Hello my friend</h1>
     </div>
   );
 }
