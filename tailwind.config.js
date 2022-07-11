@@ -6,13 +6,18 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'black' : '#000000'
+        'black' : '#000000',
+        'twitterblue' : '#1D9BF0',
+        'twittergray' : '#71767B'
       },
       height: {
         '128': '50.5rem',
       },
       width: {
         '128': '59rem'
+      },
+      fontSize: {
+        'xxs' : '.55rem'
       }
       
     },
