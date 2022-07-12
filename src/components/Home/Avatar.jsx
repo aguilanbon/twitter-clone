@@ -3,7 +3,7 @@ import React from 'react'
 function Avatar() {
   return (
     <div className='mr-4 full'>
-        <div className='flex justify-between '>
+        <div className='flex justify-between items-center'>
           <div className='flex'>
             <div className='flex mr-2 items-center'>
             <img src="./aloy.jpg" alt="" className='w-8 h-8 rounded-full object-cover' />
