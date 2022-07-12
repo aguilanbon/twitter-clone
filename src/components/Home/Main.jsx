@@ -1,9 +1,14 @@
 import React from 'react'
+import Feed from './Feed'
+import Sidebar from './Sidebar'
 
 function MiddleContainer() {
   return (
-    <div className='flex w-96 h-auto bg-slate-500'>
-        
+    <div className='w-8/12 h-auto flex'>
+        <div className='flex '>
+          <Feed />
+          <Sidebar />
+        </div>
     </div>
   )
 }

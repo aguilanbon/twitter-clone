@@ -1,6 +1,6 @@
 import React from 'react'
 
-function RightSidebar() {
+function Sidebar() {
   return (
     <div className='w-auto bg-red-300 h-screen'>
         dsads
@@ -8,4 +8,4 @@ function RightSidebar() {
   )
 }
 
-export default RightSidebar
+export default Sidebar
