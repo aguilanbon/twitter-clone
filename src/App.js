@@ -6,8 +6,8 @@ import Login from './pages/Login';
 function App() {
   return (
     <div className='h-screen bg-black'>
-      <Login />
-      {/* <Home /> */}
+      {/* <Login /> */}
+      <Home />
     </div>
   );
 }
