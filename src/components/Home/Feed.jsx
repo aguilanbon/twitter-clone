@@ -5,9 +5,15 @@ import TweetInput from './TweetInput'
 
 function Feed() {
   return (
-    <div className='flex flex-col w-100 border-x border-twitterborder'>
+    <div className='flex flex-col w-100 h-auto border-x border-twitterborder'>
         <HomeNav />
         <TweetInput />
+        <TweetCard />
+        <TweetCard />
+        <TweetCard />
+        <TweetCard />
+        <TweetCard />
+        <TweetCard />
         <TweetCard />
     </div>
   )

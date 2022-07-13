@@ -5,7 +5,7 @@ import Login from './pages/Login';
 
 function App() {
   return (
-    <div className='h-screen bg-black'>
+    <div className='h-auto bg-black'>
       {/* <Login /> */}
       <Home />
     </div>
