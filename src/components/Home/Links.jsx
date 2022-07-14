@@ -15,7 +15,7 @@ return (
     </div>
     <li className='flex flex-col text-lg'>
         <a href="/" className='flex'>
-            <div className='flex hover:bg-twitterbggray hover:bg-opacity-60 py-2 pl-2 pr-6 rounded-full'>
+            <div className='flex hover:bg-twitterbggray hover:bg-opacity-60 py-2 pl-2 pr-6 rounded-full text-xsm font-semibold'>
                 <svg viewBox="0 0 24 24" aria-hidden="true"
                 className="fill-twitterwhite w-5 mr-4 r-1nao33i r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-cnnz9e">
                 <g>
@@ -28,7 +28,7 @@ return (
             </div>
         </a>
         <a href="/" className='flex'>
-            <div className='flex hover:bg-twitterbggray hover:bg-opacity-60 py-2 pl-2 pr-6 rounded-full'>
+            <div className='flex hover:bg-twitterbggray hover:bg-opacity-60 py-2 pl-2 pr-6 rounded-full text-xsm font-semibold'>
                 <svg viewBox="0 0 24 24" aria-hidden="true"
                 className="fill-twitterwhite w-5 mr-4 r-1nao33i r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-cnnz9e">
                 <g>
@@ -40,7 +40,7 @@ return (
             </div>
         </a>
         <a href="/" className='flex'>
-            <div className='flex hover:bg-twitterbggray hover:bg-opacity-60 py-2 pl-2 pr-6 rounded-full'>
+            <div className='flex hover:bg-twitterbggray hover:bg-opacity-60 py-2 pl-2 pr-6 rounded-full text-xsm font-semibold'>
                 <svg viewBox="0 0 24 24" aria-hidden="true"
                 className="fill-twitterwhite w-5 mr-4 r-1nao33i r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-cnnz9e">
                 <g>
@@ -52,7 +52,7 @@ return (
             </div>
         </a>
         <a href="/" className='flex'>
-            <div className='flex hover:bg-twitterbggray hover:bg-opacity-60 py-2 pl-2 pr-6 rounded-full'>
+            <div className='flex hover:bg-twitterbggray hover:bg-opacity-60 py-2 pl-2 pr-6 rounded-full text-xsm font-semibold'>
                 <svg viewBox="0 0 24 24" aria-hidden="true"
                 className="fill-twitterwhite w-5 mr-4 r-1nao33i r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-cnnz9e">
                 <g>
@@ -64,7 +64,7 @@ return (
             </div>
         </a>
         <a href="/" className='flex'>
-            <div className='flex hover:bg-twitterbggray hover:bg-opacity-60 py-2 pl-2 pr-6 rounded-full'>
+            <div className='flex hover:bg-twitterbggray hover:bg-opacity-60 py-2 pl-2 pr-6 rounded-full text-xsm font-semibold'>
                 <svg viewBox="0 0 24 24" aria-hidden="true"
                 className="fill-twitterwhite w-5 mr-4 r-1nao33i r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-cnnz9e">
                 <g>
@@ -76,7 +76,7 @@ return (
             </div>
         </a>
         <a href="/" className='flex'>
-            <div className='flex hover:bg-twitterbggray hover:bg-opacity-60 py-2 pl-2 pr-6 rounded-full'>
+            <div className='flex hover:bg-twitterbggray hover:bg-opacity-60 py-2 pl-2 pr-6 rounded-full text-xsm font-semibold'>
                 <svg viewBox="0 0 24 24" aria-hidden="true"
                 className="fill-twitterwhite w-5 mr-4 r-1nao33i r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-cnnz9e">
                 <g>
@@ -91,7 +91,7 @@ return (
             </div>
         </a>
         <a href="/" className='flex'>
-            <div className='flex hover:bg-twitterbggray hover:bg-opacity-60 py-2 pl-2 pr-6 rounded-full'>
+            <div className='flex hover:bg-twitterbggray hover:bg-opacity-60 py-2 pl-2 pr-6 rounded-full text-xsm font-semibold'>
                 <svg viewBox="0 0 24 24" aria-hidden="true"
                 className="fill-twitterwhite w-5 mr-4 r-1nao33i r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-cnnz9e">
                 <g>
@@ -103,7 +103,7 @@ return (
             </div>
         </a>
         <a href="/" className='flex'>
-            <div className='flex hover:bg-twitterbggray hover:bg-opacity-60 py-2 pl-2 pr-6 rounded-full'>
+            <div className='flex hover:bg-twitterbggray hover:bg-opacity-60 py-2 pl-2 pr-6 rounded-full text-xsm font-semibold'>
                 <svg viewBox="0 0 24 24" aria-hidden="true"
                 className="fill-twitterwhite w-5 mr-4 r-1nao33i r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-cnnz9e">
                 <g>
