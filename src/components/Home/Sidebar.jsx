@@ -1,4 +1,5 @@
 import React from 'react'
+import TrendCard from './TrendCard'
 
 function Sidebar() {
   return (
@@ -9,16 +10,16 @@ function Sidebar() {
       </div>
       <div className='w-64 h-auto flex flex-col mt-14 pl-2 bg-twitterbggray rounded-t-md justify-between'>
         <h1 className='text-twitterwhite font-bold py-2 px-2'>Trends for you</h1>
-        <div className='w-full h-14 flex py-2 mb-2 justify-between px-2'>
-          <div className='flex flex-col'>
-            <p className='text-twittergray text-xxs'>Trending in Philippines</p>
-            <h2 className='text-twitterwhite font-bold text-xs'>Department of Health</h2>
-            <p className='text-twittergray text-xxs'>3,491 Tweets</p>
-          </div>
-          <div className='flex pr-2'>
-              <svg viewBox="0 0 24 24" aria-hidden="true" className="h-4 fill-twitterwhite r-4qtqp9 r-yyyyoo r-1xvli5t r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-1hdv0qi"><g><circle cx="5" cy="12" r="2"></circle><circle cx="12" cy="12" r="2"></circle><circle cx="19" cy="12" r="2"></circle></g></svg>
-          </div>
-        </div>
+        <TrendCard />
+        <TrendCard />
+        <TrendCard />
+        <TrendCard />
+        <TrendCard />
+        <TrendCard />
+        <TrendCard />
+        <TrendCard />
+        <TrendCard />
+        <TrendCard />
       </div>
       <div className='flex bg-twitterbggray rounded-b-md p-4'>
         <a href="/" className='text-twitterblue text-xs'>Show more</a>
