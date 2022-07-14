@@ -27,7 +27,7 @@ function Sidebar() {
       </div>
       <ShowMore />
       <div className='mt-2 bg-twitterbggray rounded-xl'>
-        <h1 className='text-twitterwhite p-4 font-bold' >Who to follow</h1>
+        <h1 className='text-twitterwhite px-4 py-2 font-bold' >Who to follow</h1>
         <FollowSuggestions />
         <ShowMore />
       </div>
