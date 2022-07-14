@@ -15,6 +15,16 @@ function Feed() {
         <TweetCard />
         <TweetCard />
         <TweetCard />
+        <TweetCard />
+        <TweetCard />
+        <TweetCard />
+        <TweetCard />
+        <TweetCard />
+        <TweetCard />
+        <TweetCard />
+        <TweetCard />
+        <TweetCard />
+        <TweetCard />
     </div>
   )
 }
