@@ -20,6 +20,9 @@ function Sidebar() {
           </div>
         </div>
       </div>
+      <div className='flex bg-twitterbggray rounded-b-md p-4'>
+        <a href="/" className='text-twitterblue text-xs'>Show more</a>
+      </div>
     </div>
   )
 }
