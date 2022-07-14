@@ -1,4 +1,5 @@
 import React from 'react'
+import FollowSuggestions from './FollowSuggestions'
 import TrendCard from './TrendCard'
 
 function Sidebar() {
@@ -26,34 +27,7 @@ function Sidebar() {
       </div>
       <div className='mt-2 bg-twitterbggray rounded-md'>
         <h1 className='text-twitterwhite p-4 font-bold' >Who to follow</h1>
-        <div className='flex justify-between'>
-            <div className='flex items-center px-4 py-2'>
-              <div className='flex'>
-                <img src="./aloy.jpg" alt="" className='h-10 w-10 object-cover rounded-full' />
-              </div>
-              <div className='flex flex-col pl-3'>
-                <h2 className='text-twitterwhite text-sm font-bold'>React JS</h2>
-                <h3 className='text-twittergray text-xs'>@reactjs</h3>
-              </div>
-            </div>
-            <div className='flex pr-4 items-center justify-center'>
-              <button className='bg-twitterwhite text-xs font-semibold h-7 w-16 rounded-full'>Follow</button>
-            </div>
-        </div>
-        <div className='flex justify-between'>
-            <div className='flex items-center px-4 py-2'>
-              <div className='flex'>
-                <img src="./aloy.jpg" alt="" className='h-10 w-10 object-cover rounded-full' />
-              </div>
-              <div className='flex flex-col pl-3'>
-                <h2 className='text-twitterwhite text-sm font-bold'>React JS</h2>
-                <h3 className='text-twittergray text-xs'>@reactjs</h3>
-              </div>
-            </div>
-            <div className='flex pr-4 items-center justify-center'>
-              <button className='bg-twitterwhite text-xs font-semibold h-7 w-16 rounded-full'>Follow</button>
-            </div>
-        </div>
+        <FollowSuggestions />
         <div className='flex bg-twitterbggray rounded-b-md p-4'>
           <a href="/" className='text-twitterblue text-xs'>Show more</a>
         </div>
