@@ -23,7 +23,6 @@ function Sidebar() {
         <TrendCard />
         <TrendCard />
         <TrendCard />
-        <TrendCard />
       </div>
       <ShowMore />
       <div className='mt-2 bg-twitterbggray rounded-xl'>
