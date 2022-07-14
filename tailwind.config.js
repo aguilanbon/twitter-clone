@@ -12,7 +12,8 @@ module.exports = {
         'twitterwhite' : '#EFF3F4',
         'twitterborder' : '#2F3336',
         'twitterbggray' : '#16181C',
-        'twitterhover' : '#00394e'
+        'twitterhover' : '#00394e',
+        'twitterbluehover' : '#0e80cc'
       },
       height: {
         '128': '50.5rem',

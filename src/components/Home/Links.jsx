@@ -120,7 +120,7 @@ return (
     </li>
 
     <div className='mt-4 pr-8'>
-        <button className='bg-twitterblue rounded-full w-full py-2'>Tweet</button>
+        <button className='bg-twitterblue rounded-full w-full py-2 hover:bg-twitterbluehover'>Tweet</button>
     </div>
 </div>
 )
