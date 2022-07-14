@@ -1,5 +1,6 @@
 import React from 'react'
 import FollowSuggestions from './FollowSuggestions'
+import ShowMore from './ShowMore'
 import TrendCard from './TrendCard'
 
 function Sidebar() {
@@ -22,15 +23,11 @@ function Sidebar() {
         <TrendCard />
         <TrendCard />
       </div>
-      <div className='flex bg-twitterbggray rounded-b-md p-4'>
-        <a href="/" className='text-twitterblue text-xs'>Show more</a>
-      </div>
+      <ShowMore />
       <div className='mt-2 bg-twitterbggray rounded-md'>
         <h1 className='text-twitterwhite p-4 font-bold' >Who to follow</h1>
         <FollowSuggestions />
-        <div className='flex bg-twitterbggray rounded-b-md p-4'>
-          <a href="/" className='text-twitterblue text-xs'>Show more</a>
-        </div>
+        <ShowMore />
       </div>
     </div>
   )
