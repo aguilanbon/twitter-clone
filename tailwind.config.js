@@ -11,7 +11,7 @@ module.exports = {
         'twittergray' : '#71767B',
         'twitterwhite' : '#EFF3F4',
         'twitterborder' : '#2F3336',
-        'twitterbggray' : '#202327'
+        'twitterbggray' : '#16181C'
       },
       height: {
         '128': '50.5rem',
