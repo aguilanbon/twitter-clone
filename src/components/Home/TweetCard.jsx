@@ -12,7 +12,7 @@ function TweetCard() {
           <div className='flex flex-col w-full'>
             <div className='flex flex-row'>
               <div className='flex w-full'>
-                <h1 className='ml-3 text-xs font-semibold'>Aloy Zero</h1>
+                <h1 className='ml-3 text-xs font-semibold hover:border-b hover:border-twitterwhite h-4'>Aloy Zero</h1>
                 <h2 className='text-xs mx-1 text-twittergray'>@zeroaloy</h2>
                 <p className='text-xs text-twittergray'>. 7h</p>
               </div>
