@@ -3,7 +3,7 @@ import TweetOptions from './TweetOptions'
 
 function TweetCard() {
   return (
-    <div className='text-twitterwhite flex flex-col border-b border-twitterborder'>
+    <div className='text-twitterwhite flex flex-col border-b border-twitterborder hover:bg-twitterbggray hover:bg-opacity-30 cursor-pointer'>
       <div className='flex flex-col p-4'>
         <div className='flex flex-row'>
           <div className='flex'>
