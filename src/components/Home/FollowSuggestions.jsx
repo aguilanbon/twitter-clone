@@ -3,7 +3,7 @@ import React from 'react'
 function FollowSuggestions() {
   return (
     <div className='flex flex-col'>
-        <div className='flex justify-between'>
+        <div className='flex justify-between bg-twitterbggray hover:bg-twitterhvgray cursor-pointer'>
             <div className='flex items-center px-4 py-2'>
                 <div className='flex'>
                 <img src="./aloy.jpg" alt="" className='h-10 w-10 object-cover rounded-full' />
@@ -17,7 +17,7 @@ function FollowSuggestions() {
                 <button className='bg-twitterwhite text-xs font-semibold h-7 w-16 rounded-full'>Follow</button>
             </div>
         </div>
-        <div className='flex justify-between'>
+        <div className='flex justify-between bg-twitterbggray hover:bg-twitterhvgray cursor-pointer'>
             <div className='flex items-center px-4 py-2'>
                 <div className='flex'>
                 <img src="./aloy.jpg" alt="" className='h-10 w-10 object-cover rounded-full' />
