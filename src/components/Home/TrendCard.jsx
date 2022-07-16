@@ -2,8 +2,8 @@ import React from 'react'
 
 function TrendCard() {
   return (
-    <div className='w-full h-14 flex py-2 mb-2 justify-between px-2'>
-        <div className='flex flex-col'>
+    <div className='w-full  flex py-2 justify-between px-2 cursor-pointer bg-twitterbggray hover:bg-twitterhvgray'>
+        <div className='flex flex-col pl-2'>
             <p className='text-twittergray text-xxs'>Trending in Philippines</p>
             <h2 className='text-twitterwhite font-bold text-xs'>Department of Health</h2>
             <p className='text-twittergray text-xxs'>3,491 Tweets</p>

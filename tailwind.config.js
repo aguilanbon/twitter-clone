@@ -12,6 +12,7 @@ module.exports = {
         'twitterwhite' : '#EFF3F4',
         'twitterborder' : '#2F3336',
         'twitterbggray' : '#16181C',
+        'twitterhvgray' : '#202327',
         'twitterhover' : '#00394e',
         'twitterbluehover' : '#0e80cc'
       },
