@@ -7,9 +7,9 @@ import Login from './pages/Login';
 function App() {
   return (
     <GlobalProvider>
-      <div className='h-auto bg-black'>
-        {/* <Login /> */}
-        <Home />
+      <div className='min-h-screen bg-black'>
+        <Login />
+        {/* <Home /> */}
       </div>
     </GlobalProvider>
   );
