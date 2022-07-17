@@ -5,7 +5,7 @@ import Footer from '../components/Footer'
 
 function Login() {
   return (
-    <div className='flex h-auto flex-col'>
+    <div className='flex min-h-screen flex-col bg-twitterhvgray'>
         <div className='flex'>
           <LoginHero />
           <LoginCredentials />
