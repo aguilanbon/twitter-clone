@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div className='w-auto h-auto text-twittergray  text-xxs  flex items-center justify-center flex-wrap bg-twitterhvgray p-2'>
+    <div className='w-auto h-auto text-twittergray  text-xxs  flex items-center justify-center flex-wrap bg-black p-2'>
       <p className='mx-1'>About</p>
       <p className='mx-1'>Help Center</p>
       <p className='mx-1'>Terms of Service</p>
