@@ -6,13 +6,13 @@ import Footer from '../components/Footer'
 function Login() {
   return (
     <div className='flex h-auto flex-col'>
-        <div className='flex'>
-          <LoginHero />
-          <LoginCredentials />
-        </div>
-        <div className='flex w-full items-center justify-center'>
-          <Footer />
-        </div>
+      <div className='flex'>
+        <LoginHero />
+        <LoginCredentials />
+      </div>
+      <div className='flex w-full items-center justify-center'>
+        <Footer />
+      </div>
     </div>
   )
 }

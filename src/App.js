@@ -8,8 +8,8 @@ function App() {
   return (
     <GlobalProvider>
       <div className='h-auto bg-black'>
-        {/* <Login /> */}
-        <Home />
+        <Login />
+        {/* <Home /> */}
       </div>
     </GlobalProvider>
   );
