@@ -4,7 +4,7 @@ import Main from '../components/Home/Main'
 
 function Home() {
   return (
-    <div className='flex flex-row w-full h-auto'>
+    <div className='flex flex-row w-12/12 h-auto'>
       <Header />
       <Main />
     </div>

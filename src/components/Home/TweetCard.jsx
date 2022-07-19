@@ -7,7 +7,7 @@ function TweetCard() {
 
   return (
     <div className='text-twitterwhite flex flex-col border-b border-twitterborder hover:bg-twitterbggray hover:bg-opacity-30 cursor-pointer'>
-      <div className='flex flex-col py-4 pl-4 pr-2'>
+      <div className='flex flex-col py-4 pl-4 pr-2 w-full'>
         <div className='flex flex-row'>
           <div className='flex'>
             <img src="./aloy.jpg" alt="" className='h-10 w-10 rounded-full object-cover' />
