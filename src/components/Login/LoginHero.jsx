@@ -2,7 +2,7 @@ import React from 'react'
 
 function LoginHero() {
   return (
-    <div className='h-128 w-128 flex relative'>
+    <div className='lg:h-128 lg:w-128 md:w-full sm:h-96 sm:mt-10 lg:mt-0 flex relative'>
         <div className='w-full'>
           <img src="https://abs.twimg.com/sticky/illustrations/lohp_en_1302x955.png" alt="" className='h-full w-full object-cover' />
         </div>
