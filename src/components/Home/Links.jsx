@@ -2,8 +2,9 @@ import React from 'react'
 
 function Links() {
 return (
-<div className='h-screen mt-2 flex flex-col w-full text'>
-    <div className='w-10 h-10 rounded-full flex items-center justify-center hover:bg-twitterhover hover:bg-opacity-30 cursor-pointer'>
+<div className='h-screen mt-2 flex flex-col w-auto lg:w-full text'>
+    <div className='w-full flex items-end justify-end pr-4 xl:justify-start'>
+        <div className='w-10 h-10 rounded-full flex items-center justify-center hover:bg-twitterhover hover:bg-opacity-30 cursor-pointer'>
         <svg viewBox="0 0 24 24" aria-hidden="true"
         className="w-7 fill-twitterwhite r-jwli3a r-4qtqp9 r-yyyyoo r-rxcuwo r-1777fci r-m327ed r-dnmrzs r-494qqr r-bnwqim r-1plcrui r-lrvibr">
         <g>
@@ -13,7 +14,8 @@ return (
         </g>
     </svg>
     </div>
-    <li className='flex flex-col text-lg'>
+    </div>
+    <li className='flex flex-col text-lg items-end xl:items-start pr-4'>
         <a href="/" className='flex'>
             <div className='flex hover:bg-twitterbggray hover:bg-opacity-60 py-2 pl-2 pr-6 lg:pl-2 lg:pr-2 rounded-full text-xsm font-semibold'>
                 <svg viewBox="0 0 24 24" aria-hidden="true"
@@ -141,9 +143,8 @@ return (
             </div>
         </a>
     </li>
-
-    <div className='mt-4 pr-8'>
-        <button className='bg-twitterblue rounded-full w-full py-2 hover:bg-twitterbluehover'>Tweet</button>
+    <div className='mt-4 flex flex-row items-start justify-end pr-4 w-full'>
+        <button className='bg-twitterblue rounded-full md:w-auto xl:w-full py-2 hover:bg-twitterbluehover'>Tweet</button>
     </div>
 </div>
 )
