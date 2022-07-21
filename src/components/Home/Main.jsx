@@ -5,7 +5,7 @@ import Sidebar from './Sidebar'
 function MiddleContainer() {
   return (
     <div className='xl:w-8/12 w-full h-auto flex'>
-        <div className='flex w-full sm:w-100'>
+        <div className='flex w-full'>
           <Feed />
           <Sidebar />
         </div>
