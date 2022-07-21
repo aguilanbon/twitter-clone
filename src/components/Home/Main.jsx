@@ -4,8 +4,8 @@ import Sidebar from './Sidebar'
 
 function MiddleContainer() {
   return (
-    <div className='xl:w-8/12 w-10/12 h-auto flex'>
-        <div className='flex'>
+    <div className='xl:w-8/12 w-full h-auto flex'>
+        <div className='flex w-full sm:w-100'>
           <Feed />
           <Sidebar />
         </div>
