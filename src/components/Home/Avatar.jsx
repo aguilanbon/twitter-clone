@@ -2,7 +2,7 @@ import React from 'react'
 
 function Avatar() {
   return (
-    <div className='flex w-full items-end justify-end pr-2'>
+    <div className='flex w-full items-end justify-end md:pr-2'>
       <div className='xl:w-full w-auto hover:bg-twitterbggray hover:bg-opacity-60 py-2 px-2 rounded-full cursor-pointer'>
         <div className='flex justify-between items-center'>
           <div className='flex'>
