@@ -2,7 +2,7 @@ import React from 'react'
 
 function MessagesWidget() {
   return (
-    <div className='absolute bg-red-500 w-72 h-10 bottom-0 right-5'>
+    <div className='fixed bg-black w-80 h-12 bottom-0 right-5 rounded-t-lg shadow-twitter shadow-white'>
         
     </div>
   )

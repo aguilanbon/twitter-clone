@@ -30,6 +30,9 @@ module.exports = {
       },
       screens: {
         'mobile': '320px' 
+      },
+      boxShadow: {
+        'twitter': '0 0 7px -1px rgba(0, 0, 0, 0.3)'
       }
       
     },
