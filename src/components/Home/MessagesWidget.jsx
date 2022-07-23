@@ -6,7 +6,7 @@ function MessagesWidget() {
 
   return (
     <div className={`fixed bg-black lg:w-96 w-64 ${isExpanded ? `h-96 ` : `h-12 items-center`}  bottom-0 right-5 pt-2 rounded-t-lg shadow-twitter shadow-white flex cursor-pointer flex-col  transition-all`} onClick={() => setIsExpanded(prev => !prev)}>
-        <div className='flex flex-row h-12 w-full justify-between px-3 '>
+        <div className='flex flex-row h-9 w-full justify-between px-3 '>
           <h1 className='font-bold text-twitterwhite text-lg'>Messages</h1>
           <div className='flex h-9'>
             <div className='hover:bg-twitterbggray hover:bg-opacity-80 p-2 rounded-full'>
@@ -25,7 +25,7 @@ function MessagesWidget() {
         </div>
         {isExpanded ? 
         <div className='flex w-full'>
-          <div className='w-full flex bg-red-400 h-16'>
+          <div className='w-full h-16 flex bg-black hover:bg-twitterbggray hover:bg-opacity-90'>
 
           </div>
         </div>
