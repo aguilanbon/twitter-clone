@@ -26,7 +26,7 @@ return (
                     </path>
                 </g>
             </svg>
-            <div className='hidden xl:block ml-4'>
+            <div className='hidden xl:block ml-4 pr-2'>
                 Home
             </div>
             </div>
@@ -41,7 +41,7 @@ return (
                     </path>
                 </g>
             </svg> 
-            <div className='hidden xl:block ml-4'>
+            <div className='hidden xl:block ml-4 pr-2'>
             Explore
             </div>
             </div>
@@ -56,7 +56,7 @@ return (
                     </path>
                 </g>
             </svg>
-            <div className='hidden xl:block ml-4'>
+            <div className='hidden xl:block ml-4 pr-2'>
             Notifications
             </div>
             </div>
@@ -71,7 +71,7 @@ return (
                     </path>
                 </g>
             </svg>
-            <div className='hidden xl:block ml-4'>
+            <div className='hidden xl:block ml-4 pr-2'>
             Messages
             </div>
             </div>
@@ -86,7 +86,7 @@ return (
                     </path>
                 </g>
             </svg>
-            <div className='hidden xl:block ml-4'>
+            <div className='hidden xl:block ml-4 pr-2'>
             Bookmarks
             </div>
             </div>
@@ -104,7 +104,7 @@ return (
                     </path>
                 </g>
             </svg>
-            <div className='hidden xl:block ml-4'>
+            <div className='hidden xl:block ml-4 pr-2'>
             Lists
             </div>
             </div>
@@ -119,7 +119,7 @@ return (
                     </path>
                 </g>
             </svg>
-            <div className='hidden xl:block ml-4'>
+            <div className='hidden xl:block ml-4 pr-2'>
             Profile
             </div>
             </div>
@@ -137,7 +137,7 @@ return (
                     </path>
                 </g>
             </svg>
-            <div className='hidden xl:block ml-4'>
+            <div className='hidden xl:block ml-4 pr-2'>
             More
             </div>
             </div>
