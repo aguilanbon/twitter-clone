@@ -2,7 +2,7 @@ import React from 'react'
 
 function MessagesCard() {
   return (
-    <div className='flex w-full mt-1'>
+    <div className='flex w-full'>
         <div className='w-full h-auto flex bg-black hover:bg-twitterbggray hover:bg-opacity-90 text-sm '>
             <div className='p-4 '>
             <img src="./aloy.jpg" alt="" className='w-12 h-12 rounded-full object-cover' />

@@ -25,7 +25,10 @@ function MessagesWidget() {
           </div>
         </div>
         {isExpanded ? 
+        <>
         <MessagesCard />
+        <MessagesCard />
+        </>
         :
         ''
         }
