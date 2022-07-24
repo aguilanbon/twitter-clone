@@ -5,7 +5,7 @@ function MessagesWidget() {
   const [isExpanded, setIsExpanded] = useState(false)
 
   return (
-    <div className={`fixed bg-black lg:w-96 w-64 ${isExpanded ? `h-3/5` : `h-12 items-center`}  bottom-0 right-5 pt-2 rounded-t-2xl shadow-twitter shadow-white flex cursor-pointer flex-col  transition-all duration-300`} onClick={() => setIsExpanded(prev => !prev)}>
+    <div className={`fixed bg-black lg:w-96 w-64 ${isExpanded ? `h-3/5` : `h-12 items-center`}  bottom-0 right-5 pt-2 rounded-t-2xl shadow-twitter shadow-white hidden lg:flex cursor-pointer flex-col  transition-all duration-300`} onClick={() => setIsExpanded(prev => !prev)}>
         <div className='flex flex-row h-9 w-full justify-between px-3'>
           <h1 className='font-bold text-twitterwhite text-lg'>Messages</h1>
           <div className='flex h-9'>
