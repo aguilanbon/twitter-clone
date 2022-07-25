@@ -3,11 +3,11 @@ import React from 'react'
 function Avatar() {
   return (
     <div className='flex w-full items-end justify-end md:pr-2'>
-      <div className='xl:w-full w-auto hover:bg-twitterbggray hover:bg-opacity-60 py-2 px-2 rounded-full cursor-pointer'>
+      <div className='xl:w-full w-auto hover:bg-twitterbggray hover:bg-opacity-60 py-3 px-3 rounded-full cursor-pointer'>
         <div className='flex justify-between items-center'>
           <div className='flex'>
             <div className='flex xl:mr-3 mr-0 items-center'>
-              <img src="./aloy.jpg" alt="" className='w-10 h-10 xl:w-8 xl:h-8 rounded-full object-cover' />
+              <img src="./aloy.jpg" alt="" className='w-10 h-10 xl:w-10 xl:h-10 rounded-full object-cover' />
             </div>
             <div className='xl:flex xl:flex-col xl:justify-center hidden'>
               <h1 className='text-sm font-semibold leading-3'>Aloy Zero</h1>
