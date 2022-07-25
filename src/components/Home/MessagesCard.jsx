@@ -18,7 +18,7 @@ function MessagesCard() {
                 <h2 className='text-twittergray xl:w-24 w-18'>Jul 24, 2022</h2>
             </div>
             <div className='flex text-twittergray'>
-                <p className='overflow-hidden overflow-ellipsis whitespace-nowrap w-72'>Yoooo!!! Stranger things s4 was great! no cap!sdddddddddddd</p>
+                <p className='overflow-hidden overflow-ellipsis whitespace-nowrap xl:w-72 w-56'>Yoooo!!! Stranger things s4 was great! no cap!sdddddddddddd</p>
             </div>
             </div>
         </div>
