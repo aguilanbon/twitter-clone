@@ -21,7 +21,8 @@ module.exports = {
       },
       width: {
         '128': '59rem',
-        '100': '30rem'
+        '100': '30rem',
+        'tcard': '32rem'
       },
       fontSize: {
         'xxs' : '.70rem',
