@@ -15,7 +15,7 @@ function TweetCard() {
           <div className='flex flex-col w-full'>
             <div className='flex flex-row'>
               <div className='flex w-full'>
-                <h1 className='ml-3 text-xs lg:text-sm font-semibold hover:border-b hover:border-twitterwhite h-4'>Aloy Zero</h1>
+                <h1 className='ml-3 text-xs lg:text-sm font-semibold hover:border-b hover:border-twitterwhite'>Aloy Zero</h1>
                 <h2 className='text-xs lg:text-sm mx-1 text-twittergray'>@zeroaloy</h2>
                 <p className='text-xs lg:text-sm text-twittergray'>. 7h</p>
               </div>

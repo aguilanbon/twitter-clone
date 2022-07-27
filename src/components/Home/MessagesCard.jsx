@@ -12,8 +12,8 @@ function MessagesCard() {
                 <h2 className='pr-1 text-slate-300 overflow-hidden overflow-ellipsis whitespace-nowrap xl:w-24 w-16'>Black Pantherssssssssssssss</h2>
                 <h2 className='pr-2 text-twittergray overflow-hidden overflow-ellipsis whitespace-nowrap xl:w-24 w-16'>@BlackPantasssss</h2>
                 <div className='pr-2 flex items-center justify-center'>
-                <div className='w-1 h-1 rounded-full bg-twittergray flex '>
-                </div>
+                  <div className='w-1 h-1 rounded-full bg-twittergray flex '>
+                  </div>
                 </div>
                 <h2 className='text-twittergray xl:w-24 w-18'>Jul 24, 2022</h2>
             </div>
