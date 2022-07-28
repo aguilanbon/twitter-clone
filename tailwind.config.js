@@ -18,11 +18,13 @@ module.exports = {
       },
       height: {
         '128': '50.5rem',
+        '100': '34rem'
       },
       width: {
         '128': '59rem',
         '100': '30rem',
-        'tcard': '32rem'
+        'tcard': '32rem',
+        'modal': '34rem'
       },
       fontSize: {
         'xxs' : '.70rem',
