@@ -7,7 +7,7 @@ function Modal() {
   const {setModalIsOpen} = useContext(GlobalHelperContext)
  
   return (
-    <div className='w-modal h-100 bg-black z-50 rounded-xl'>
+    <div className='sm:w-modal w-screen sm:h-100 h-screen bg-black z-50 sm:rounded-xl'>
       <div className='flex flex-col'>
 
         <div className='w-full flex justify-between items-center p-3'>
