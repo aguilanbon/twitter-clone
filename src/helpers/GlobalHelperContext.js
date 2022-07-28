@@ -5,9 +5,11 @@ const GlobalHelperContext = createContext(null)
 export const GlobalProvider = ({children}) => {
 
     const [inputState, setInputState] = useState(false)
+    const [modalIsOpen, setModalIsOpen] = useState(false)
 
     const value = {
-        inputState, setInputState
+        inputState, setInputState,
+        modalIsOpen, setModalIsOpen
     }
 
     return (
