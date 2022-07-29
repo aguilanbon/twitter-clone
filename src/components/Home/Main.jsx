@@ -1,8 +1,8 @@
 import React from 'react'
-import Feed from './Feed'
-import HomeNav from './HomeNav'
-import MessagesWidget from './MessagesWidget'
-import Sidebar from './Sidebar'
+import Feed from './Feed/Feed'
+import HomeNav from './Nav/HomeNav'
+import MessagesWidget from './MessagesWidget/MessagesWidget'
+import Sidebar from './Sidebar/Sidebar'
 
 function MiddleContainer() {
   return (

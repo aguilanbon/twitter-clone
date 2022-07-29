@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import Header from '../components/Home/Header'
+import Header from '../components/Home/Nav/Header'
 import Main from '../components/Home/Main'
 import Overlay from '../components/Home/Modal/Overlay'
 import GlobalHelperContext from '../helpers/GlobalHelperContext'

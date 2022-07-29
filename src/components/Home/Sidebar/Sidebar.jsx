@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import GlobalHelperContext from '../../helpers/GlobalHelperContext'
+import GlobalHelperContext from '../../../helpers/GlobalHelperContext'
 import FollowSuggestions from './FollowSuggestions'
 import HomeFooter from './HomeFooter'
 import ShowMore from './ShowMore'

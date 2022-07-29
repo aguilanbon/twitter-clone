@@ -1,5 +1,5 @@
 import React, { useContext, useState } from 'react'
-import GlobalHelperContext from '../../helpers/GlobalHelperContext'
+import GlobalHelperContext from '../../../helpers/GlobalHelperContext'
 import MessagesCard from './MessagesCard'
 
 function MessagesWidget() {
