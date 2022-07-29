@@ -3,7 +3,7 @@ import InputOptions from './InputOptions'
 
 function TweetInput() {
   return (
-    <div className='flex px-4 border-b border-twitterborder'>
+    <div className='flex px-4 mt-2 border-b border-twitterborder'>
         <div className='flex w-full h-auto'>
             <img src="./aloy.jpg" alt="" className='w-10 h-10 object-cover rounded-full' />
             <div className='flex flex-col justify-start items-start w-full ml-2'>
